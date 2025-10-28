@@ -29,6 +29,11 @@ springdoc:
   api-docs:
     path: /api-docs
   swagger-ui:
+    servers:
+      - url: http://localhost:8080
+        description: localhost
+      - url: https://${RAILWAY_PUBLIC_DOMAIN}
+        description: Railway domain
     path: /swagger-ui.html
     operations-sorter: method
     
