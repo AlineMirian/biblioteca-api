@@ -239,4 +239,4 @@ Acesse: `http://localhost:8080/h2-console`
 **Aline Mirian**
 
 - GitHub: [@AlineMirian](https://github.com/AlineMirian)
-- Bootcamp: Santander Bootcamp 2023 - DIO
+- Bootcamp: Santander Bootcamp 2023 - DIO.
