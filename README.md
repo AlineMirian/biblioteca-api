@@ -165,7 +165,7 @@ Acesse: `http://localhost:8080/h2-console`
 
 ## 📊 Documentação OpenAPI
 
-**Swagger UI:** `http://localhost:8080/swagger-ui.html` *(em desenvolvimento)*
+**Swagger UI:** `http://localhost:8080/swagger-ui.html` 
 
 **API Docs:** `http://localhost:8080/api-docs`
 
@@ -230,7 +230,7 @@ Acesse: `http://localhost:8080/h2-console`
 
 ## 🚀 Deploy
 
-*(Seção será atualizada após deploy no Railway)*
+(https://biblioteca-api-production-7a4b.up.railway.app/swagger-ui/index.html)
 
 ---
 
